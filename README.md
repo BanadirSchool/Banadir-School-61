@@ -24,7 +24,7 @@
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> 100
+                    <td> 95
                         <td> A+
                     </td>
                     <td> COMPUTER
@@ -32,8 +32,8 @@
           
                 <tr>   
                     <td> M-S EXCEL </td>
-                    <td> LAMA HAYO
-                        <td> Z
+                    <td> 100
+                        <td> A+
                     </td>
                     <td> COMPUTER
                     </td>
@@ -41,8 +41,8 @@
                
                 <tr>
                         <td>M-S POWER POINT </td>
-                        <td> LAMA HAYO </td>
-                        <td> Z
+                        <td> 100 </td>
+                        <td> A+
                         <td> COMPUTER
                         </td>
                
